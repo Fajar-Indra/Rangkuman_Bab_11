@@ -1,4 +1,4 @@
-# Pertemuan 11: Studi Kasus Sektor Publik dan Privat (Strategi TI)  
+# Pertemuan 11 - Studi Kasus Sektor Publik dan Privat (Strategi TI)  
 **Perencanaan Strategis Teknologi Informasi**  
 **Topik : Studi Kasus Sektor Publik & Sektor Privat**
 
