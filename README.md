@@ -68,7 +68,7 @@ Studi kasus **Jakarta Smart City** adalah yang paling relevan dengan konteks Ind
 ### 3) Jika Anda menjadi CIO di instansi pemerintah, strategi TI apa yang akan diprioritaskan?
 Strategi utama yang diprioritaskan adalah **membangun platform integrasi data terpusat (Single Source of Truth)**. Tujuannya adalah mengatasi masalah silo data antar instansi, mempercepat proses layanan publik, dan membuka jalan bagi penggunaan AI Government di masa depan. Selain itu, peningkatan literasi digital aparatur juga menjadi bagian penting untuk mendukung transformasi digital yang berkelanjutan.
 
-### Kesimpulan Singkat
+### Kesimpulan Singkat Dari Diskusi Kelas
 Sektor privat lebih cepat beradaptasi dengan TI karena didorong kompetisi bisnis. Studi kasus yang paling relevan saat ini adalah Jakarta Smart City. Jika menjadi CIO pemerintah, prioritas strategi TI adalah integrasi data dan penguatan arsitektur data sebagai fondasi transformasi digital.
 
 ## Kesimpulan
