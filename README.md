@@ -57,6 +57,21 @@
 | Tantangan | Birokrasi, anggaran | Persaingan & inovasi cepat |
 | Contoh | e-Gov, Smart City | Fintech, E-commerce |
 
+# Jawaban Diskusi Kelas 
+## Perencanaan Strategis Teknologi Informasi
+
+### 1) Menurut Anda, sektor publik atau privat yang lebih cepat beradaptasi dengan TI?
+Sektor **privat** umumnya lebih cepat beradaptasi dengan teknologi informasi. Hal ini karena dorongan perubahan di sektor privat berasal dari persaingan bisnis dan kebutuhan inovasi untuk memperkuat posisi pasar. Pengambilan keputusan juga lebih fleksibel dan tidak terikat prosedur birokrasi yang panjang sehingga implementasi teknologi baru bisa lebih cepat dilakukan.
+
+### 2) Studi kasus mana yang paling relevan dengan konteks Indonesia saat ini?
+Studi kasus **Jakarta Smart City** adalah yang paling relevan dengan konteks Indonesia saat ini. Transformasi digital pada skala kota besar seperti Jakarta menunjukkan bagaimana integrasi data, platform aplikasi publik (seperti JAKI), penggunaan CCTV & IoT dapat meningkatkan efisiensi layanan masyarakat dan menjadi model pengembangan smart city di Indonesia.
+
+### 3) Jika Anda menjadi CIO di instansi pemerintah, strategi TI apa yang akan diprioritaskan?
+Strategi utama yang diprioritaskan adalah **membangun platform integrasi data terpusat (Single Source of Truth)**. Tujuannya adalah mengatasi masalah silo data antar instansi, mempercepat proses layanan publik, dan membuka jalan bagi penggunaan AI Government di masa depan. Selain itu, peningkatan literasi digital aparatur juga menjadi bagian penting untuk mendukung transformasi digital yang berkelanjutan.
+
+### Kesimpulan Singkat
+Sektor privat lebih cepat beradaptasi dengan TI karena didorong kompetisi bisnis. Studi kasus yang paling relevan saat ini adalah Jakarta Smart City. Jika menjadi CIO pemerintah, prioritas strategi TI adalah integrasi data dan penguatan arsitektur data sebagai fondasi transformasi digital.
+
 ## Kesimpulan
 - Kedua sektor menggunakan TI sebagai motor transformasi digital
 - Tujuan berbeda → publik fokus pelayanan, privat fokus kompetisi
