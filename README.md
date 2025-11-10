@@ -58,7 +58,6 @@
 | Contoh | e-Gov, Smart City | Fintech, E-commerce |
 
 ## Jawaban Diskusi Kelas 
-## Perencanaan Strategis Teknologi Informasi
 
 ### 1) Menurut Anda, sektor publik atau privat yang lebih cepat beradaptasi dengan TI?
 Sektor **privat** umumnya lebih cepat beradaptasi dengan teknologi informasi. Hal ini karena dorongan perubahan di sektor privat berasal dari persaingan bisnis dan kebutuhan inovasi untuk memperkuat posisi pasar. Pengambilan keputusan juga lebih fleksibel dan tidak terikat prosedur birokrasi yang panjang sehingga implementasi teknologi baru bisa lebih cepat dilakukan.
