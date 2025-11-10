@@ -57,7 +57,7 @@
 | Tantangan | Birokrasi, anggaran | Persaingan & inovasi cepat |
 | Contoh | e-Gov, Smart City | Fintech, E-commerce |
 
-# Jawaban Diskusi Kelas 
+## Jawaban Diskusi Kelas 
 ## Perencanaan Strategis Teknologi Informasi
 
 ### 1) Menurut Anda, sektor publik atau privat yang lebih cepat beradaptasi dengan TI?
