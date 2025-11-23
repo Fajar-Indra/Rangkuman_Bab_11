@@ -1,4 +1,7 @@
-# Pertemuan 11 - Studi Kasus Sektor Publik dan Privat (Strategi TI)  
+# Rangkuman BAB 10 Perencanaan Strategis Teknologi Informasi
+Dosen Pengampu : Dr. Basuki Rahmat, S.Si. MT.
+
+## Pertemuan 11 - Studi Kasus Sektor Publik dan Privat (Strategi TI)  
 **Perencanaan Strategis Teknologi Informasi**  
 **Topik : Studi Kasus Sektor Publik & Sektor Privat**
 
