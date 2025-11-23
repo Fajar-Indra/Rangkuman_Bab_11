@@ -1,4 +1,4 @@
-# Rangkuman BAB 10 Perencanaan Strategis Teknologi Informasi
+# Rangkuman BAB 11 Perencanaan Strategis Teknologi Informasi
 Dosen Pengampu : Dr. Basuki Rahmat, S.Si. MT.
 
 ## Pertemuan 11 - Studi Kasus Sektor Publik dan Privat (Strategi TI)  
